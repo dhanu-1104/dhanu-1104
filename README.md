@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhanush Kumar G</h1>
-- 🌱 I’m currently learning **fullstack dev**
+- 🌱 I’m currently learning fullstack dev
 
 - 📫 How to reach me **kdhanush074@gmail.com**
 
